@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+The story of Cal Kestis continues in STAR WARS Jedi: Survivor™, a galaxy-spanning, third-person, action-adventure game.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 64-bit | macOS 11.0 or later |
+| **Processor** | Min: 4 core / 8 threads  | Intel Core i7-7700  | Ryzen 5 140… / Rec: 4 core / 8 threads  |  Intel Core i5 11600K  |  Ryzen 5… | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 8 GB RAM |
+| **Graphics** | Min: 8GB VRAM |  GTX 1070  |  Radeon RX 580 / Rec: 8GB VRAM |  RTX2070  |  RX 6700 XT | Metal-capable GPU |
+| **DirectX** | Version 12 | Version 12 |
+| **Storage** | 155 GB available space | 155 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **Additional Notes** | Internet required for non-optional patching, no online … | Internet required for non-optional patching, no online … |
 
 ---
 
